@@ -1,0 +1,14 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: 0px;
+
+}
+i {
+    color: beige;
+    background-color: blue;
+}
+input {
+    color: blue;
+    background-color: whitesmoke;
+}
